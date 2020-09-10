@@ -1,25 +1,25 @@
 {
   "env": {
-    "FIREBASE_API_KEY": "@firebase-api-key",
-    "FIREBASE_AUTH_DOMAIN": "@firebase-auth-domain",
-    "FIREBASE_DATABASE_URL": "@firebase-database-url",
-    "FIREBASE_PROJECT_ID": "@firebase-project-id",
-    "FIREBASE_STORAGE_BUCKET": "@firebase-storage-bucket",
-    "FIREBASE_MESSAGING_SENDER_ID": "@firebase-messaging-sender-id",
-    "FIREBASE_APP_ID": "@firebase-app-id",
-    "FIREBASE_MEASUREMENT_ID": "@firebase-measurement-id"
+    "FIREBASE_API_KEY": "AIzaSyA0GTQSkR3ukeJyv6gn8KOo-bLgNKFeTPo",
+    "FIREBASE_AUTH_DOMAIN": "cormorant-events.firebaseapp.com",
+    "FIREBASE_DATABASE_URL": "https://cormorant-events.firebaseio.com",
+    "FIREBASE_PROJECT_ID": "cormorant-events",
+    "FIREBASE_STORAGE_BUCKET": "cormorant-events.appspot.com",
+    "FIREBASE_MESSAGING_SEND_ID": "576746898366",
+    "FIREBASE_APP_ID": "1:576746898366:web:cfc7c40c38a5d1470c6fef",
+    "FIREBASE_MEASURMENT_ID": "G-BLZNNJQNZX"
   },
   "build": {
     "env": {
-      "FIREBASE_API_KEY": "@firebase-api-key",
-      "FIREBASE_AUTH_DOMAIN": "@firebase-auth-domain",
-      "FIREBASE_DATABASE_URL": "@firebase-database-url",
-      "FIREBASE_PROJECT_ID": "@firebase-project-id",
-      "FIREBASE_STORAGE_BUCKET": "@firebase-storage-bucket",
-      "FIREBASE_MESSAGING_SENDER_ID": "@firebase-messaging-sender-id",
-      "FIREBASE_APP_ID": "@firebase-app-id",
-      "FIREBASE_MEASUREMENT_ID": "@firebase-measurement-id",
-      "FIREBASE_CLIENT_EMAIL": "@firebase-client-email",
+      "FIREBASE_API_KEY": "AIzaSyBmx3vtuNWST5nqZ9Uvef0xcx4Qj_qMkeQ",
+      "FIREBASE_AUTH_DOMAIN": "cormorant-events-staging.firebaseapp.com",
+      "FIREBASE_DATABASE_URL": "https://cormorant-events-staging.firebaseio.com",
+      "FIREBASE_PROJECT_ID": "cormorant-events-staging",
+      "FIREBASE_STORAGE_BUCKET": "cormorant-events-staging.appspot.com",
+      "FIREBASE_MESSAGING_SENDER_ID": "64953323480",
+      "FIREBASE_APP_ID": "1:64953323480:web:84e8ca385897d0c121ecad",
+      "FIREBASE_MEASUREMENT_ID": "G-083K1355RN",
+      "FIREBASE_CLIENT_EMAIL": "vincent.xavier.zell@gmail.com",
       "FIREBASE_PRIVATE_KEY": "@firebase-private-key"
     }
   }
